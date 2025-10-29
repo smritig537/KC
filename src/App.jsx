@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-
+import { formatDistanceToNow } from 'date-fns';
 import { Mail, Twitter, Github, Linkedin } from 'lucide-react';
 
 const LAUNCH_DATE = new Date('2025-12-01T00:00:00');
