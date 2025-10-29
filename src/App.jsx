@@ -24,7 +24,7 @@ export default function App() {
   return (
     <>
       <section className="hero">
-        <h1>Khushbu Group is Coming</h1>
+        <h1>Khushbu Chauhan Group is Coming</h1>
         <p>We're working hard behind the scenes. Get early access and be the first to know.</p>
         
 
